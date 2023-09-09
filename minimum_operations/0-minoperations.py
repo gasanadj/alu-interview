@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
-'''minimun operations'''
+"""minimun operations."""
 
 
 def minOperations(n):
+    """Return the fewest number of operations needed."""
     if n == 1:
         return 0
 
